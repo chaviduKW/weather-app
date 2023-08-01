@@ -94,3 +94,11 @@ body{
     font-size: 28px;
     margin-top: -6px ;
 }
+
+.error{
+    color:red;
+    text-align: left;
+    margin-left: 10px;
+    display: none;
+
+}
